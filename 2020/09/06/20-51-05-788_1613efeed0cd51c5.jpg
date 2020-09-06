@@ -1,0 +1,418 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Appel CEPOcc 2020-156
+</title><meta name="keyword" content="appels à projets" /><meta name="description" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="X-UA-Compatible" content="IE=10" /><link rel="shortcut icon" href="http://www.ademe.fr/sites/all/themes/ademe/favicon.ico" type="image/vnd.microsoft.icon" /><script src="/Scripts/jquery-3.4.1.js"></script>
+<script src="/Scripts/bootstrap.js"></script>
+<link href="/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/fontawesome-all.css" rel="stylesheet"/>
+<link href="../App_Themes/dmapub/dmapub.css" type="text/css" rel="stylesheet" /><meta property="og:title" content="Appel CEPOcc 2020-156" /><meta name="twitter:title" content="Appel CEPOcc 2020-156" /><meta property="og:image" content="https://appelsaprojets.ademe.fr/App_Pub/document_image.ashx?tk=0b37358b-0cc1-4c19-b136-b8f90365002a" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:image" content="https://appelsaprojets.ademe.fr/App_Pub/document_image.ashx?tk=0b37358b-0cc1-4c19-b136-b8f90365002a" /><meta property="og:description" content="Accompagner la mise en place du service de Conseil en énergie partagé (CEP) sur des territoires de projet" /><meta name="twitter:description" content="Accompagner la mise en place du service de Conseil en énergie partagé (CEP) sur des territoires de projet" /><meta property="og:url" content="https://appelsaprojets.ademe.fr/appel/DMA/_pub/apw_description.aspx?ref=CEPOcc2020-156" /><meta name="twitter:url" content="https://appelsaprojets.ademe.fr/appel/DMA/_pub/apw_description.aspx?ref=CEPOcc2020-156" /><link rel="shortcut icon" href="/_rsc/dma/favicon.ico" type="image/x-icon"/><link rel="icon" href="/_rsc/dma/favicon.ico" type="image/ico"/></head>
+
+<body>
+	<form method="post" action="./CEPOcc2020-156?ref=CEPOcc2020-156" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="2" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU5OTg3NTg2OA9kFgJmD2QWAgIDD2QWBAIDD2QWAgIBD2QWBAIBDxYCHgVjbGFzcwUFaW5uZXJkAgMPFgIeCWlubmVyaHRtbGVkAgUPZBYIAgEPDxYCHgRUZXh0BagGQm9uam91ciwgIDxiciAvPiAgTCZyc3F1bztBREVNRSBhIGxhbmMmZWFjdXRlOyBzYSBub3V2ZWxsZSBwbGF0ZWZvcm1lIGRlIHNlcnZpY2VzLCBBZ2lycG91cmxhdHJhbnNpdGlvbi5hZGVtZS5mciAiQWdpci5mciIgLiBDZXR0ZSBwbGF0ZWZvcm1lIHJlY2Vuc2UgdG91cyBsZXMgZGlzcG9zaXRpZnMgZCdhaWRlIGRlIGwnYWdlbmNlLiAgPGJyIC8+ICA8c3Ryb25nPlZvdXMgYWxsZXogJmVjaXJjO3RyZSByZWRpcmlnJmVhY3V0ZTsuZSB2ZXJzIGxhIG5vdXZlbGxlIHBhZ2UgZGUgcHImZWFjdXRlO3NlbnRhdGlvbiBkZSBsJnJzcXVvO2FwcGVsICZhZ3JhdmU7IHByb2pldHMgcXVlIHZvdXMgcmVjaGVyY2hleiBzdXIgY2V0dGUgcGxhdGVmb3JtZS48L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxcmVtOyI+PC9zcGFuPiAgPGJyLz4gIDxzdHJvbmc+U2kgdm91cyBhdmV6IHVuIGRvc3NpZXIgZW4gY291cnMsIDwvc3Ryb25nPnBvdXIgdm91cyBjb25uZWN0ZXIgZXQgcG91cnN1aXZyZSBsYSBzYWlzaWUgZGUgdm90cmUgZG9zc2llciA6ICA8dWw+ICAgICAgPGxpPmNsaXF1ZXogIGVuIGhhdXQgJmFncmF2ZTsgZHJvaXRlIHN1ciA8c3Ryb25nPiZsYXF1bzsmbmJzcDtNb24gY29tcHRlJm5ic3A7JnJhcXVvOzwvc3Ryb25nPjwvbGk+ICAgICAgPGxpPnB1aXMgcyZlYWN1dGU7bGVjdGlvbm5leiBzdXIgPHN0cm9uZz4mbGFxdW87IEonYWkgZCZlYWN1dGU7aiZhZ3JhdmU7IGNhbmRpZGF0JmVhY3V0ZTsgJmFncmF2ZTsgdW4gYXBwZWwgJmFncmF2ZTsgcHJvamV0cyAmcmFxdW87PC9zdHJvbmc+LjwvbGk+ICA8L3VsPmRkAgMPD2QWAh4Fc3R5bGUFEGZvbnQtc2l6ZTpzbWFsbDtkAg0PFgIfAWVkAg8PZBYSAgEPZBYCAgEPFgIfAQWlATxpbWcgdGl0bGU9J0NFUE9jYycgYWx0PSdDRVBPY2MnIHN0eWxlPSdtYXgtd2lkdGg6ODEwcHg7JyBzcmM9J2h0dHBzOi8vYXBwZWxzYXByb2pldHMuYWRlbWUuZnIvQXBwX1B1Yi9kb2N1bWVudF9pbWFnZS5hc2h4P3RrPTBiMzczNThiLTBjYzEtNGMxOS1iMTM2LWI4ZjkwMzY1MDAyYScvPmQCAw8WAh8BBXNBY2NvbXBhZ25lciBsYSBtaXNlIGVuIHBsYWNlIGR1IHNlcnZpY2UgZGUgQ29uc2VpbCBlbiAmIzIzMztuZXJnaWUgcGFydGFnJiMyMzM7IChDRVApIHN1ciBkZXMgdGVycml0b2lyZXMgZGUgcHJvamV0ZAIFDxYCHwEFdlMmIzIzMztsZWN0aW9uIGRlIHRlcnJpdG9pcmVzIHZvbG9udGFpcmVzIOKAkyBBY2NvbXBhZ25lbWVudCB0ZWNobmlxdWUgZXQgZmluYW5jaWVyICYjMjI0OyBsYSBtaXNlIGVuIHBsYWNlIGR1IHNlcnZpY2VkAgcPDxYCHwIFClLDqWdpb25hbGVkZAIJDxYEHwEFCU9jY2l0YW5pZR4HVmlzaWJsZWdkAgsPFgIfBGhkAg0PZBYKAgEPFgIfAQULQ0VQT2NjIDIwMjBkAgMPFgIfAQWgDjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjAwMDFwdDsiPkxlcyBwZXRpdGVzIGV0IG1veWVubmVzIGNvbW11bmVzIGRlIHZvdHJlIHRlcnJpdG9pcmUgc291aGFpdGVudCBtZW5lciB1bmUgciZlYWN1dGU7ZWxsZSBwb2xpdGlxdWUgZGUgbWEmaWNpcmM7dHJpc2UgZGVzIGNvbnNvbW1hdGlvbnMgKCZlYWN1dGU7bmVyZ2llLCBlYXUpIGRlIGxldXIgcGF0cmltb2luZSAoYiZhY2lyYzt0aW1lbnRzLCAmZWFjdXRlO2NsYWlyYWdlIHB1YmxpYywgZmxvdHRlIGRlIHYmZWFjdXRlO2hpY3VsZXMpLiBNdXR1YWxpc2VyIGNlIHNlcnZpY2UgJmFncmF2ZTsgbCZyc3F1bzsmZWFjdXRlO2NoZWxsZSBkJnJzcXVvO3VuIHRlcnJpdG9pcmUgZW4gbGV1ciBtZXR0YW50ICZhZ3JhdmU7IGRpc3Bvc2l0aW9uIHVuIGNvbnNlaWxsZXIgJmxhcXVvOyZuYnNwO3BhcnRhZyZlYWN1dGU7Jm5ic3A7JnJhcXVvOyBwZXJtZXQgZCZyc3F1bzt5IHImZWFjdXRlO3BvbmRyZS48L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7Ij4mbmJzcDs8L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMC4wMDAxcHQ7Ij5TaSB2b3VzICZlY2lyYzt0ZXMgZW5nYWcmZWFjdXRlOyBkYW5zIHVuIFBDQUVULCBkYW5zIHVuZSBkJmVhY3V0ZTttYXJjaGUgVEVQT1MsIGRpc3Bvc2VyIGQmcnNxdW87dW4gdGVsIHNlcnZpY2UgcGVybWV0dHJhIGRlIGNvbnRyaWJ1ZXIgJmFncmF2ZTsgbCZyc3F1bzthdHRlaW50ZSBkZXMgb2JqZWN0aWZzIHZpcyZlYWN1dGU7cywgZXQgYXV4IGNvbW11bmVzIGRlIG1pZXV4IG1hJmljaXJjO3RyaXNlciBsZXVycyBjaGFyZ2VzICZlYWN1dGU7bmVyZyZlYWN1dGU7dGlxdWVzLjwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjAwMDFwdDsiPiZuYnNwOzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjAwMDFwdDsiPkVuICZlYWN1dGU7dGFudCBsYXVyJmVhY3V0ZTthdCBkZSBsJnJzcXVvO0FwcGVsICZhZ3JhdmU7IGNhbmRpZGF0dXJlcywgdm90cmUgdGVycml0b2lyZSZuYnNwO2ImZWFjdXRlO24mZWFjdXRlO2ZpY2llcmEgZCZyc3F1bzt1biBzb3V0aWVuIGZpbmFuY2llciBwb3VyIGxhIG1pc2UgZW4gcGxhY2UgZHUgc2VydmljZSBsZXMgMyBwcmVtaSZlZ3JhdmU7cmVzIGFubiZlYWN1dGU7ZXMsIGV0IGQmcnNxdW87dW4gYWNjb21wYWduZW1lbnQgdGVjaG5pcXVlIGR1IGNvbnNlaWxsZXIgcmVjcnV0JmVhY3V0ZTsgKG0mZWFjdXRlO3Rob2Rlcywgb3V0aWxzLCBmb3JtYXRpb25zJmhlbGxpcDspLjwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjAwMDFwdDsiPiZuYnNwOzwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjAwMDFwdDsiPkxlcyBjYW5kaWRhdHVyZXMgc2Vyb250IGFwcHImZWFjdXRlO2NpJmVhY3V0ZTtlcyAmYWdyYXZlOyB0cmF2ZXJzIHBsdXNpZXVycyBjcml0JmVncmF2ZTtyZXMgZCZlYWN1dGU7bW9udHJhbnQgdW5lIHImZWFjdXRlO2VsbGUgbW9iaWxpc2F0aW9uIGR1IHRlcnJp" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="dG9pcmUgZXQgbGEgY29oJmVhY3V0ZTtyZW5jZSBkdSBkaW1lbnNpb25uZW1lbnQgZHUgc2VydmljZS48L3A+PGJyIC8+UmVjb21tYW5kYXRpb24gcG91ciBsZSBkw6lww7R0IGRlIGRvc3NpZXI8YnIgLz5BdHRlbnRpb24gOiBTZXVsIGxlIGNvb3JkaW5hdGV1ciBkdSBwcm9qZXQgcGV1dCBkw6lwb3NlciBjZWx1aS1jaS4gPGI+U2kgdm91cyDDqnRlcyB1biBwYXJ0ZW5haXJlLCBtZXJjaSBkZSBjb250YWN0ZXIgbGUgZnV0dXIgY29vcmRpbmF0ZXVyIGFmaW4gcXVlIGNlbHVpLWNpIHB1aXNzZSByZW1wbGlyIGV0IGTDqXBvc2VyIGxlIGRvc3NpZXIuPC9iPmQCBw8WBh4EaHJlZgWVAWh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9zaGFyZXIvc2hhcmVyLnBocD91PWh0dHBzJTNhJTJmJTJmYXBwZWxzYXByb2pldHMuYWRlbWUuZnIlMmZhcHBlbCUyZkRNQSUyZl9wdWIlMmZhcHdfZGVzY3JpcHRpb24uYXNweCUzZnJlZiUzZENFUE9jYzIwMjAtMTU2HgZ0YXJnZXQFBl9ibGFuax4Hb25DbGljawUlYXBwZWxfcGFydGFnZV9ycygnMTMzMicsICdmYWNlYm9vaycpO2QCCQ8WBh8FBZ0DaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/b3JpZ2luYWxfcmVmZXJlcj1odHRwcyUzYSUyZiUyZmFwcGVsc2Fwcm9qZXRzLmFkZW1lLmZyJTJmYXBwZWwlMmZETUElMmZfcHViJTJmYXB3X2Rlc2NyaXB0aW9uLmFzcHglM2ZyZWYlM2RDRVBPY2MyMDIwLTE1NiZhbXA7dHdfcD10d2VldGJ1dHRvbiZhbXA7dXJsPWh0dHBzJTNhJTJmJTJmYXBwZWxzYXByb2pldHMuYWRlbWUuZnIlMmZhcHBlbCUyZkRNQSUyZl9wdWIlMmZhcHdfZGVzY3JpcHRpb24uYXNweCUzZnJlZiUzZENFUE9jYzIwMjAtMTU2JmFtcDt0ZXh0PUFjY29tcGFnbmVyK2xhK21pc2UrZW4rcGxhY2UrZHUrc2VydmljZStkZStDb25zZWlsK2VuKyVjMyVhOW5lcmdpZStwYXJ0YWclYzMlYTkrKENFUCkrc3VyK2Rlcyt0ZXJyaXRvaXJlcytkZStwcm9qZXQfBgUGX2JsYW5rHwcFJGFwcGVsX3BhcnRhZ2VfcnMoJzEzMzInLCAndHdpdHRlcicpO2QCCw8WBh8FBZ8BaHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP3VybD1odHRwcyUzYSUyZiUyZmFwcGVsc2Fwcm9qZXRzLmFkZW1lLmZyJTJmYXBwZWwlMmZETUElMmZfcHViJTJmYXB3X2Rlc2NyaXB0aW9uLmFzcHglM2ZyZWYlM2RDRVBPY2MyMDIwLTE1NiZhbXA7bWluaT10cnVlHwYFBl9ibGFuax8HBSVhcHBlbF9wYXJ0YWdlX3JzKCcxMzMyJywgJ2xpbmtlZGluJyk7ZAIPD2QWAgIHDw8WAh4HVG9vbFRpcAVMTW9kYWxpdMOpcyBkZSBkw6lww7R0IDogc3VidmVudGlvbi5vY2NpdGFuaWVAYWRlbWUuZnJcQUFQIENFUCBPY2NpdGFuaWUgMjAyMGRkAhsPDxYCHwgFXERlc3RpbmF0YWlyZSBkdSBmb3JtdWxhaXJlIGRlIGNvbnRhY3QgOiBzdWJ2ZW50aW9uLm9jY2l0YW5pZUBhZGVtZS5mclxBQVAgQ0VQIE9jY2l0YW5pZSAyMDIwZGRk+zeUa7lmkPxns4ZCj44ZX/GvtbJVQb381DMnSDK5fxY=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ZmJgpjUE4SGHe0SNT0q_JCUuINmZsUaVxTsMNxpGf9TOgB_oVDfduFjgDe773FJULqcSVWmYIhZBRt6f2P1qKARmQYhgH6PlBlDKNVH_ing1&amp;t=637103382965614113" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+//Appelle de la fonction sur le serveur.
+function appel_partage_rs(appel_id, type_partage) {
+PageMethods.set_path('/appel/DMA/_pub/apw_description.aspx')
+	PageMethods.appel_partage_rs(appel_id, type_partage,
+			OnSucceeded, OnFailed);
+}
+// Callback function invoked on successful 
+// completion of the page method.
+function OnSucceeded(result, userContext, methodName) {
+	if (methodName == 'appel_partage_rs' && result == '0') {
+	}
+}
+// Callback function invoked on failure 
+// of the page method.
+function OnFailed(error, userContext, methodName) {
+	if (error !== null) {
+		alert('Erreur serveur : ' +	error.get_message());
+	}
+}var __cultureInfo = {"name":"fr-FR","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":" ","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":" ","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":" ","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["dim.","lun.","mar.","mer.","jeu.","ven.","sam."],"ShortestDayNames":["di","lu","ma","me","je","ve","sa"],"DayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"AbbreviatedMonthNames":["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc.",""],"MonthNames":["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre",""],"IsReadOnly":true,"NativeCalendarName":"calendrier grégorien","AbbreviatedMonthGenitiveNames":["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc.",""],"MonthGenitiveNames":["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre",""]},"eras":[1,"ap. J.-C.",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=fIl5PbycKLwTLHSJ_IyTLnxvXFj7QpiNxDRuxAasoURl5tLnW4DzoRGZ4LxxaXn1Bw77TcVPg4LCaCAS8jjFitenqgzgglkoIVpjB2oW-CubYPOB1iYhl9Hn4FBwBGXQWANAemix42gdOxCM2kr6l-FHtQpE8F6Ghg52zcxxc56Cujw6U5KR7wNU2shIRMG30&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('Échec du chargement de l\u0027infrastructure ASP.NET Ajax côté client.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=G0OfjI4iVIbSTydIVXMjfdmlPSRuQPRcRGeZ5YXL90uNf4eEwESPBrLMNPYE2ZHv7t2vY5ZdQsoAQiwZ7Q8Xp2Hq5HgE8d1WxrjlLKtVGSllQY4UIlATkJDKUzg-vZRKnCIuI9KnNm5nSHnbbOeGulaYWdpJyByiuxcIyF6kORl-Eu4ZUXXiwuT-ZoSlB25j0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+appel_partage_rs:function(appel_id,type_partage,succeededCallback, failedCallback, userContext) {
+/// <param name="appel_id" type="Number">System.Int64</param>
+/// <param name="type_partage" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+return this._invoke(this._get_path(), 'appel_partage_rs',false,{appel_id:appel_id,type_partage:type_partage},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) {
+PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { 
+/// <value type="String" mayBeNull="true">The service url.</value>
+return PageMethods._staticInstance.get_path();}
+PageMethods.set_timeout = function(value) {
+PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { 
+/// <value type="Number">The service timeout.</value>
+return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { 
+PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { 
+/// <value mayBeNull="true">The service default user context.</value>
+return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { 
+ PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default succeeded callback.</value>
+return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { 
+PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { 
+/// <value type="Function" mayBeNull="true">The service default failed callback.</value>
+return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_enableJsonp = function(value) { PageMethods._staticInstance.set_enableJsonp(value); }
+PageMethods.get_enableJsonp = function() { 
+/// <value type="Boolean">Specifies whether the service supports JSONP for cross domain calling.</value>
+return PageMethods._staticInstance.get_enableJsonp(); }
+PageMethods.set_jsonpCallbackParameter = function(value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+PageMethods.get_jsonpCallbackParameter = function() { 
+/// <value type="String">Specifies the parameter name that contains the callback function name for a JSONP request.</value>
+return PageMethods._staticInstance.get_jsonpCallbackParameter(); }
+PageMethods.set_path("apw_description.aspx");
+PageMethods.appel_partage_rs= function(appel_id,type_partage,onSuccess,onFailed,userContext) {
+/// <param name="appel_id" type="Number">System.Int64</param>
+/// <param name="type_partage" type="String">System.String</param>
+/// <param name="succeededCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="failedCallback" type="Function" optional="true" mayBeNull="true"></param>
+/// <param name="userContext" optional="true" mayBeNull="true"></param>
+PageMethods._staticInstance.appel_partage_rs(appel_id,type_partage,onSuccess,onFailed,userContext); }
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="822ACB7D" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA57k0qW030Bv7qyutd/OyYsNnT2VchBaiytUf5merHsx4hZb0UsAKU219kC/hNfsNg/Sz2xn9ZYtCdVbRKSvLw/RO9uP2S3jfZeLiBQN8wYBmAAoi4dKOaFOFZk5xszh4DP08HtRwPGMeIDSWzAhhirMjuKld9+A0z45cxQMMImiEFoBdLqMj5sOo7dxVz6SjcuQjHzKlNB6XXUUbho/xCzxDbvXtdl/wMHLvDvb2NRB8esCGCmTX0eDypqyURseb/5VTfmytO5VHz9xbW3HoSXNjl5cQFNGp4CPJFEImYW1syWp/G6QTT+RkLfba5gWCKdoTC8Hk4nlPhatzOD3N3+" />
+</div>
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$smg', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+		
+			
+
+<div id="header">
+	<div id="zentete_puc_dmaentete_header_size" class="inner">
+		<a href="http://ademe.fr" class="logo" style="display: inline-block;" title="Naviguer vers le site ademe.fr" target="_blank">
+			<img id="zentete_puc_dmaentete_img_gouv" src="../App_Themes/dmapub/Republique_Francaise_RVB.png" style="max-height: 101px; padding-right: 40px;" />
+			<img id="zentete_puc_dmaentete_img_logo" alt="Agence de l&#39;Environnement et de la Maîtrise de l&#39;Energie - retour à la page d&#39;accueil" src="../App_Themes/dmapub/LogoAdeme2020_RVB.jpg" style="height: 101px; padding-right: 40px" />
+		</a>
+		
+
+		<div id="header-text">
+			<a title="Retour à l&#39;accueil" href="../">
+				<div class="slogan-titre">ADEME Appels à projets</div>
+				<div class="slogan-logo">Dépôt et suivi de projets</div>
+			</a>
+		</div>
+
+		<hr style="clear: both; border-bottom: 1px lightgray solid;">
+	</div>
+	<div id="zentete_puc_dmaentete_div_control_message"></div>
+</div>
+
+		
+
+		
+
+	<div id="modal_pns" class="modal" style="display: none; position: fixed; z-index: 1; padding-top: 100px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.4);">
+
+		<!-- Modal content -->
+		<div class="modal-content" style="background-color: #fefefe; margin: auto; padding: 20px; border: 1px solid #888; width: 20%; min-width: 330px; font-size:initial;">
+			<p>
+				<span id="z_contenu_lbl_redirection_pns">Bonjour,  <br />  L&rsquo;ADEME a lanc&eacute; sa nouvelle plateforme de services, Agirpourlatransition.ademe.fr "Agir.fr" . Cette plateforme recense tous les dispositifs d'aide de l'agence.  <br />  <strong>Vous allez &ecirc;tre redirig&eacute;.e vers la nouvelle page de pr&eacute;sentation de l&rsquo;appel &agrave; projets que vous recherchez sur cette plateforme.</strong><span style="font-size: 1rem;"></span>  <br/>  <strong>Si vous avez un dossier en cours, </strong>pour vous connecter et poursuivre la saisie de votre dossier :  <ul>      <li>cliquez  en haut &agrave; droite sur <strong>&laquo;&nbsp;Mon compte&nbsp;&raquo;</strong></li>      <li>puis s&eacute;lectionnez sur <strong>&laquo; J'ai d&eacute;j&agrave; candidat&eacute; &agrave; un appel &agrave; projets &raquo;</strong>.</li>  </ul></span>
+			</p>
+			<div class="text-right" style="font-size:large;">
+				<input type="submit" name="ctl00$z_contenu$btn_rediriger" value="Aller sur Agir.fr" id="z_contenu_btn_rediriger" class="btn btn-primary" style="width:40%;font-size:small;" />
+			</div>
+		</div>
+	</div>
+
+	<div id="modal_creation" class="modal" style="display: none; position: fixed; z-index: 1; padding-top: 100px; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.4);">
+
+		<!-- Modal content -->
+		<div class="modal-content" style="background-color: #fefefe; margin: auto; padding: 20px; border: 1px solid #888; width: 20%; min-width: 330px; font-size:initial;">
+			<p>
+				<span id="z_contenu_lbl_creation_dossier"></span>
+			</p>
+			<div class="text-right" style="font-size:large;">
+				<input type="submit" name="ctl00$z_contenu$btn_retour" value="Retour" id="z_contenu_btn_retour" class="btn btn-outline-secondary" style="width:40%;" />
+				<input type="submit" name="ctl00$z_contenu$btn_creer_dossier" value="Confirmer" id="z_contenu_btn_creer_dossier" class="btn btn-primary" style="width:40%;" />
+			</div>
+		</div>
+	</div>
+
+	
+
+	<div id="z_contenu_div_page_message"></div>
+
+	<div>
+		
+
+<div class="container">
+
+	
+	<div class="row no-gutters align-items-center">
+		<div id="z_contenu_puc_adx_details_appel_logo" class="col-3">
+			<div id="z_contenu_puc_adx_details_div_img_programme_operationnel" style="text-align: center;"><img title='CEPOcc' alt='CEPOcc' style='max-width:810px;' src='https://appelsaprojets.ademe.fr/App_Pub/document_image.ashx?tk=0b37358b-0cc1-4c19-b136-b8f90365002a'/></div>
+		</div>
+		<div class="col-9">
+			<div class="ml-1">
+				<div id="z_contenu_puc_adx_details_p_titre" class="page-titre" style="font-size: 3rem !important;">Accompagner la mise en place du service de Conseil en &#233;nergie partag&#233; (CEP) sur des territoires de projet</div>
+				<div id="z_contenu_puc_adx_details_p_soustitre" class="page-titre-secondaire mt-3 mb-3" style="font-size: 2rem !important;">S&#233;lection de territoires volontaires – Accompagnement technique et financier &#224; la mise en place du service</div>
+				<span style="color: grey">Couverture : 
+				<span id="z_contenu_puc_adx_details_lbl_couverture_geographique" class="label">Régionale</span>
+				</span>
+				<p id="z_contenu_puc_adx_details_p_liste_regions" style="display: inline; margin-left: 10px;">Occitanie</p>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="row no-gutters mt-3">
+		<div class="col-8" id="appel_partenariat">
+			<div class="inner">
+				<span class="page-titre-secondaire" style="font-size: 2rem !important;">En partenariat avec</span>
+			</div>
+		</div>
+	</div>
+	<div class="row no-gutters mt-3">
+		<div class="col-8">
+			<div class="inner">
+				
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="row no-gutters mb-3" style="margin-top: 30px;">
+		<div class="col-8" id="appel_description">
+			<div id="z_contenu_puc_adx_details_rdb_description" class="block-type-01">
+				<div class="row">
+
+					<div class="col-10">
+						<div class="block-wysiwyg">
+							<span class="content">
+								<h1 id="z_contenu_puc_adx_details_h1_acronyme_appel" class="title" style="padding-top: 5px;">CEPOcc 2020</h1>
+							</span>
+						</div>
+						<div class="block-wysiwyg">
+							<div class="content">
+								<div id="z_contenu_puc_adx_details_div_description"><p style="margin-bottom: 0.0001pt;">Les petites et moyennes communes de votre territoire souhaitent mener une r&eacute;elle politique de ma&icirc;trise des consommations (&eacute;nergie, eau) de leur patrimoine (b&acirc;timents, &eacute;clairage public, flotte de v&eacute;hicules). Mutualiser ce service &agrave; l&rsquo;&eacute;chelle d&rsquo;un territoire en leur mettant &agrave; disposition un conseiller &laquo;&nbsp;partag&eacute;&nbsp;&raquo; permet d&rsquo;y r&eacute;pondre.</p>
+<p style="margin-bottom: 0.0001pt;">&nbsp;</p>
+<p style="margin-bottom: 0.0001pt;">Si vous &ecirc;tes engag&eacute; dans un PCAET, dans une d&eacute;marche TEPOS, disposer d&rsquo;un tel service permettra de contribuer &agrave; l&rsquo;atteinte des objectifs vis&eacute;s, et aux communes de mieux ma&icirc;triser leurs charges &eacute;nerg&eacute;tiques.</p>
+<p style="margin-bottom: 0.0001pt;">&nbsp;</p>
+<p style="margin-bottom: 0.0001pt;">En &eacute;tant laur&eacute;at de l&rsquo;Appel &agrave; candidatures, votre territoire&nbsp;b&eacute;n&eacute;ficiera d&rsquo;un soutien financier pour la mise en place du service les 3 premi&egrave;res ann&eacute;es, et d&rsquo;un accompagnement technique du conseiller recrut&eacute; (m&eacute;thodes, outils, formations&hellip;).</p>
+<p style="margin-bottom: 0.0001pt;">&nbsp;</p>
+<p style="margin-bottom: 0.0001pt;">Les candidatures seront appr&eacute;ci&eacute;es &agrave; travers plusieurs crit&egrave;res d&eacute;montrant une r&eacute;elle mobilisation du territoire et la coh&eacute;rence du dimensionnement du service.</p><br />Recommandation pour le dépôt de dossier<br />Attention : Seul le coordinateur du projet peut déposer celui-ci. <b>Si vous êtes un partenaire, merci de contacter le futur coordinateur afin que celui-ci puisse remplir et déposer le dossier.</b></div>
+
+								<div id="z_contenu_puc_adx_details_div_piece_jointe_document"></div>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="col-1">
+						<div id="appel_partager" style="margin-top: 50px;">
+							<div class="block-type-04 block-social-tags">
+								<ul class="list-groupsocial">
+									<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fappelsaprojets.ademe.fr%2fappel%2fDMA%2f_pub%2fapw_description.aspx%3fref%3dCEPOcc2020-156" id="z_contenu_puc_adx_details_a_facebook" class="facebook ua-processed-processed" target="_blank" onClick="appel_partage_rs(&#39;1332&#39;, &#39;facebook&#39;);">
+										<img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-facebook-02.png" alt="Partager sur Facebook (nouvelle fenêtre)"></a></li>
+									<li style="margin-top: 15px;"><a href="https://twitter.com/intent/tweet?original_referer=https%3a%2f%2fappelsaprojets.ademe.fr%2fappel%2fDMA%2f_pub%2fapw_description.aspx%3fref%3dCEPOcc2020-156&amp;tw_p=tweetbutton&amp;url=https%3a%2f%2fappelsaprojets.ademe.fr%2fappel%2fDMA%2f_pub%2fapw_description.aspx%3fref%3dCEPOcc2020-156&amp;text=Accompagner+la+mise+en+place+du+service+de+Conseil+en+%c3%a9nergie+partag%c3%a9+(CEP)+sur+des+territoires+de+projet" id="z_contenu_puc_adx_details_a_twitter" class="twitter ua-processed-processed" target="_blank" onClick="appel_partage_rs(&#39;1332&#39;, &#39;twitter&#39;);">
+										<img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-twitter-02.png" alt="Partager sur Twitter (nouvelle fenêtre)"></a></li>
+									<li style="margin-top: 15px;"><a href="http://www.linkedin.com/shareArticle?url=https%3a%2f%2fappelsaprojets.ademe.fr%2fappel%2fDMA%2f_pub%2fapw_description.aspx%3fref%3dCEPOcc2020-156&amp;mini=true" id="z_contenu_puc_adx_details_a_linkedin" class="linkedin ua-processed-processed" target="_blank" onClick="appel_partage_rs(&#39;1332&#39;, &#39;linkedin&#39;);">
+										<img src="http://www.ademe.fr/sites/all/themes/ademe/img/skin/picto-linkedin-02.png" alt="Partager sur LinkedIn (nouvelle fenêtre)"></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="col-3" id="appel_calendrier" style="border: solid 0.1rem #eee">
+			<div id="z_contenu_puc_adx_details_rdb_statut_appel" class="card-body block-type-20">
+				<span class="page-titre-secondaire" style="font-size: 2rem !important;">Calendrier</span>
+				<div class="paragraphe" style="text-align: center;">
+
+					
+
+					
+
+					
+
+					<input type="submit" name="ctl00$z_contenu$puc_adx_details$btn_depot_inactif" value="Deposez votre dossier" id="z_contenu_puc_adx_details_btn_depot_inactif" disabled="disabled" title="Modalités de dépôt : subvention.occitanie@ademe.fr\AAP CEP Occitanie 2020" class="aspNetDisabled btn btn-inverted btn-inactif" />
+					<br />
+
+					<div style="margin-top: 10px; color: #004899">
+						<a id="z_contenu_puc_adx_details_lnk_mise_a_jour" href="javascript:__doPostBack(&#39;ctl00$z_contenu$puc_adx_details$lnk_mise_a_jour&#39;,&#39;&#39;)"><i Class="fa fa-chevron-right"></i> Être informé de mises à jour</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="row no-gutters mb-5">
+		<div class="col-8" id="appel_modalites_pratiques">
+
+			<span class="page-titre-secondaire" style="font-size: 2rem !important;">Modalités pratiques</span><br />
+			<div class="paragraphe mt-3" style="color: black;">
+				Pour le dépôt de dossier seul le coordinateur du projet peut déposer un dossier.<br />
+				Si vous êtes un partenaire, merci de contacter le futur coordinateur afin que celui-ci puisse remplir et deposer le dossier.<br />
+			</div>
+
+			<div class="mt-4 ml-4">
+
+				<div id="z_contenu_puc_adx_details_div_aide_document"></div>
+
+				<a id="z_contenu_puc_adx_details_btn_guide_modalite" class="btn-link" href="javascript:__doPostBack(&#39;ctl00$z_contenu$puc_adx_details$btn_guide_modalite&#39;,&#39;&#39;)"><i Class="fa fa-chevron-right"></i> Guide de modalités</a>
+				<br />
+				<a id="z_contenu_puc_adx_details_btn_modalite_pratique" class="btn-link" href="javascript:__doPostBack(&#39;ctl00$z_contenu$puc_adx_details$btn_modalite_pratique&#39;,&#39;&#39;)"><i Class="fa fa-chevron-right"></i> Modalités pratiques</a>
+			</div>
+
+		</div>
+	</div>
+
+	
+	<div class="row no-gutters">
+		<div class="col-8" id="appel_piece_a_deposer">
+			<div class="block-type-25">
+				<span class="page-titre-secondaire" style="font-size: 2rem !important;">Pièces à déposer</span><br />
+				<div id="z_contenu_puc_adx_details_div_liste_documents"><div class="file asset asset-document" style="margin-top:5px;"><span class="content"><a id="lnk_document_120689" href="javascript:__doPostBack(&#39;ctl00$z_contenu$puc_adx_details$lnk_document_120689&#39;,&#39;&#39;)">Cahier des charges de l'appel à projets CEP Occitanie 2020 2021 - PDF - 1,28 Mo</a></span></div><div class="file asset asset-document" style="margin-top:5px;"><span class="content"><a id="lnk_document_120690" href="javascript:__doPostBack(&#39;ctl00$z_contenu$puc_adx_details$lnk_document_120690&#39;,&#39;&#39;)">Volet administratif du dossier de candidature - PDF - 3,29 Mo</a></span></div><div class="file asset asset-document" style="margin-top:5px;"><span class="content"><a id="lnk_document_120691" href="javascript:__doPostBack(&#39;ctl00$z_contenu$puc_adx_details$lnk_document_120691&#39;,&#39;&#39;)">Plaquette de présentation du réseau régional CEP Occitanie - PDF - 1,65 Mo</a></span></div></div>
+
+				<div id="z_contenu_puc_adx_details_div_dossier_candidature_document"></div>
+
+			</div>
+		</div>
+
+		<div class="col-3 block-type-25" id="appel_contact" style="border: solid 0.1rem #eee">
+			<div class="card-body">
+				<span class="page-titre-secondaire" style="font-size: 2rem !important;">Contactez-nous</span><br />
+				<div class="paragraphe mt-3" style="color: grey;">
+					il est vivement conseillé de contacter l'ADEME en amont du dépôt de dossier pour tous renseignements ou conseils relatifs au montage et à la soumission de votre dossier.
+				</div>
+				<center>
+					<input type="submit" name="ctl00$z_contenu$puc_adx_details$btn_contact_inactif" value="Contacter l&#39;ADEME" id="z_contenu_puc_adx_details_btn_contact_inactif" disabled="disabled" title="Destinataire du formulaire de contact : subvention.occitanie@ademe.fr\AAP CEP Occitanie 2020" class="aspNetDisabled btn btn-inverted btn-inactif" />
+				</center>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+	</div>
+	<div id="z_contenu_div_retour_liste_appels" style="text-align: right; margin: 5px;">
+	</div>
+
+
+		<footer class="footer">
+			<div class="container-fluid" style="padding: 0 90px 0 10px;">
+				
+			</div>
+			<div class="trait"></div>
+			<ul id="footer-list" class="list-inline">
+				<li class="footer-link list-inline-item"><a id="lnk_contacter" href="javascript:__doPostBack(&#39;ctl00$lnk_contacter&#39;,&#39;&#39;)">CONTACTER L'ADEME</a></li>
+				<li class="footer-link list-inline-item">|</li>
+				<li class="footer-link list-inline-item"><a href="https://entreprises.ademe.fr/conditions-generales-dutilisation">CGU</a></li>
+				<li class="footer-link list-inline-item">|</li>
+				<li class="footer-link list-inline-item"><a id="lnk_mentions_legale" href="javascript:__doPostBack(&#39;ctl00$lnk_mentions_legale&#39;,&#39;&#39;)">MENTIONS LÉGALES</a></li>
+				<li class="footer-link list-inline-item">|</li>
+				<li class="footer-link list-inline-item"><a href="https://entreprises.ademe.fr/protection-des-donnees-personnelles">PROTECTION DES DONNÉES</a></li>
+				<li class="footer-link list-inline-item">|</li>
+				<li class="footer-link list-inline-item">&copy;
+					<span id="lbl_annee"></span>
+					- Intellia -
+					<span id="lbl_version" style="font-size:X-Small;"></span>
+				</li>
+			</ul>
+		</footer>
+
+		<div id="div_trace_message" style="display: none;"></div>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+document.getElementById('modal_pns').style.display = 'block';//]]>
+</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-54063938-1', 'auto');ga('send', 'pageview');</script> 
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>
